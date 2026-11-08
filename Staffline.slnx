@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Staffline.Api/Staffline.Api.csproj" />
+    <Project Path="src/Staffline.Application/Staffline.Application.csproj" />
+    <Project Path="src/Staffline.Domain/Staffline.Domain.csproj" />
+    <Project Path="src/Staffline.Infrastructure/Staffline.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Staffline.Tests/Staffline.Tests.csproj" />
+  </Folder>
+  <Project Path="Staffline.AppHost/Staffline.AppHost.csproj" />
+  <Project Path="Staffline.ServiceDefaults/Staffline.ServiceDefaults.csproj" />
+</Solution>
